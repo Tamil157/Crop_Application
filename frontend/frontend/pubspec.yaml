@@ -1,0 +1,19 @@
+name: crop_recommendation_app
+description: A Flutter app for crop recommendations and disease prediction.
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.13.4
+  image_picker: ^0.8.7+4
+  path: ^1.8.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true

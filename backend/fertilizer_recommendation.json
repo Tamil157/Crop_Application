@@ -1,0 +1,72 @@
+{
+    "Corn(maize)CercosporaleafspotGrayleafspot": {
+        "fertilizer": "Use a nitrogen-rich fertilizer.",
+        "application": "Apply at the early stages of growth.",
+        "steps": "Ensure proper crop rotation and avoid overhead irrigation to reduce humidity around plants."
+    },
+    "Corn(maize)Commonrust": {
+        "fertilizer": "Apply potassium-based fertilizer.",
+        "application": "Apply during the flowering stage.",
+        "steps": "Plant rust-resistant varieties, apply fungicides if necessary, and ensure proper spacing for air circulation."
+    },
+    "Corn(maize)healthy": {
+        "fertilizer": "Use balanced NPK fertilizer.",
+        "application": "Apply at planting and during growth stages.",
+        "steps": "Ensure the soil is well-drained and avoid over-fertilization to prevent nutrient imbalance."
+    },
+    "PeachBacterialspot": {
+        "fertilizer": "Use a phosphorus-rich fertilizer.",
+        "application": "Apply at the beginning of the growing season.",
+        "steps": "Prune infected branches, avoid excessive nitrogen, and apply copper-based sprays for bacterial control."
+    },
+    "Peachhealthy": {
+        "fertilizer": "Use a balanced fertilizer.",
+        "application": "Apply in early spring before flowering.",
+        "steps": "Ensure good air circulation around the tree and apply mulches to retain soil moisture."
+    },
+    "TomatoEarlyblight": {
+        "fertilizer": "Use calcium-rich fertilizer.",
+        "application": "Apply before fruit set to strengthen plant structure.",
+        "steps": "Remove affected leaves, avoid overhead watering, and apply fungicides as needed."
+    },
+    "TomatoLateblight": {
+        "fertilizer": "Use phosphorus and potassium-rich fertilizer.",
+        "application": "Apply during the early growth stage.",
+        "steps": "Use resistant varieties, apply copper-based fungicides, and ensure proper spacing between plants."
+    },
+    "Tomatohealthy": {
+        "fertilizer": "Use a balanced NPK fertilizer with added magnesium.",
+        "application": "Apply at planting and during fruit set.",
+        "steps": "Water consistently and deeply, and mulch around plants to maintain soil moisture."
+    },
+    "WheatLeafrust": {
+        "fertilizer": "Apply nitrogen-based fertilizer.",
+        "application": "Apply during tillering for optimal growth.",
+        "steps": "Use rust-resistant varieties, apply fungicides, and monitor fields regularly."
+    },
+    "Wheathealthy": {
+        "fertilizer": "Use balanced NPK fertilizer.",
+        "application": "Apply during planting and tillering stages.",
+        "steps": "Ensure proper irrigation and prevent waterlogging to avoid disease development."
+    },
+    "RiceBlast": {
+        "fertilizer": "Apply nitrogen and phosphorus-based fertilizer.",
+        "application": "Apply during the active tillering stage.",
+        "steps": "Avoid excessive nitrogen, promote good drainage, and use blast-resistant varieties."
+    },
+    "Ricehealthy": {
+        "fertilizer": "Use a balanced fertilizer with higher nitrogen content.",
+        "application": "Apply during early growth and at panicle initiation.",
+        "steps": "Maintain proper water levels in paddy fields and use disease-resistant varieties."
+    },
+    "PotatoLateblight": {
+        "fertilizer": "Use potassium-rich fertilizer.",
+        "application": "Apply during the early growth stage.",
+        "steps": "Avoid overhead irrigation, plant resistant varieties, and apply fungicides during wet conditions."
+    },
+    "Potatohealthy": {
+        "fertilizer": "Use a balanced fertilizer.",
+        "application": "Apply at planting and during tuber formation.",
+        "steps": "Ensure proper drainage in the field and maintain regular monitoring for early signs of disease."
+    }
+}
